@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/paneertikkadedo/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/paneertikkadedo/DSA/tree/master/0169-majority-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/paneertikkadedo/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
