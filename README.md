@@ -94,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paneertikkadedo/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
