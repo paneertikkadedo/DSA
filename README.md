@@ -100,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/paneertikkadedo/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/paneertikkadedo/DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,8 +114,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/paneertikkadedo/DSA/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/paneertikkadedo/DSA/tree/master/0257-binary-tree-paths) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/paneertikkadedo/DSA/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/paneertikkadedo/DSA/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/paneertikkadedo/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
