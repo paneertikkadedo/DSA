@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paneertikkadedo/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/paneertikkadedo/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/paneertikkadedo/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/paneertikkadedo/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/paneertikkadedo/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paneertikkadedo/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/paneertikkadedo/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/paneertikkadedo/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/paneertikkadedo/DSA/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paneertikkadedo/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/paneertikkadedo/DSA/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/paneertikkadedo/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
