@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/paneertikkadedo/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/paneertikkadedo/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/paneertikkadedo/DSA/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/paneertikkadedo/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/paneertikkadedo/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/paneertikkadedo/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/paneertikkadedo/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/paneertikkadedo/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/paneertikkadedo/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/paneertikkadedo/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
